@@ -1,3 +1,5 @@
 dependencies {
     implementation project(':00-rewards-common')
+    implementation project(path: ':00-rewards-common')
+    implementation project(path: ':00-rewards-common')
 }
